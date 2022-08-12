@@ -1,7 +1,8 @@
 <h2>Hi there, I'm Ayush Dey 👋</h2>
 
-- An aspiring software engineer, currently pursuing my bachelor's in Computer Science & Engineering
-- Experienced in frontend development with JavaScript and React.js
+- Pre-final year undergraduate in Computer Science & Engineering. 
+- Have 1 year of experience in front-end development during which I've remotely interned at a startup, contributed to open-source programs, and developed some unique personal projects.
+- I aspire to be a software engineer specializing in the MERN stack and am exploring back-end technologies like Node.js, Express.js, MongoDB, etc.
 - Working on my Data Structures & Algorithms skills with C++
 - Have an active interest towards finance, business and geopolitics 
 
