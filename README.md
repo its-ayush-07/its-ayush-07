@@ -1,15 +1,14 @@
 <h2>Hi there, I'm Ayush Dey 👋</h2>
 
 - Pre-final year undergraduate in Computer Science & Engineering. 
-- Have 1 year of experience in front-end development during which I've remotely interned at a startup, contributed to open-source programs, and developed some unique personal projects.
-- I aspire to be a software engineer specializing in the MERN stack and am exploring back-end technologies like Node.js, Express.js, MongoDB, etc.
-- Working on my Data Structures & Algorithms skills with C++
-- Have an active interest towards finance, business and geopolitics 
+- Have 1 year of experience in full-stack development during which I've remotely interned at a startup, contributed to open-source programs, and developed some unique personal projects.
+- Proficient in Data Structures and Algorithms and have solved 100+ problems with C++.
+- Have an active interest towards finance, business and geopolitics. 
 
 
 ### Skills
 
-**Web:** <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=Javascript" /> <img src="https://img.shields.io/badge/-React.js-black?style=flat&logo=React" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux"> <img src="https://img.shields.io/badge/-REST API-green?style=flat"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-Ant Design-red?style=flat&logo=Ant Design" /> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Material UI-0d3c61?style=flat&logo=Material Design" />
+**Web:** <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=Javascript" /> <img src="https://img.shields.io/badge/-React.js-black?style=flat&logo=React" /> <img src="https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js" /> <img src="https://img.shields.io/badge/-Express-white?style=flat&logo=Express&logoColor=black" /> <img src="https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js" /> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=Redux"> <img src="https://img.shields.io/badge/-REST API-green?style=flat"> <img src="https://img.shields.io/badge/-SQL-orange?style=flat" /> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> 
 
 **Languages:** <img src="https://img.shields.io/badge/-C and C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-blue?style=flat&logo=python&logoColor=white">
 
